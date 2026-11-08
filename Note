@@ -1,0 +1,124 @@
+Analysis Report: Fate/stay night Lorebook & Kara no Kyoukai Integration
+Target File Analyzed: 
+
+FATE SN RP.json
+ (with cross-references to 
+
+main_fate-masters-.json
+ and 
+
+main_type-moon-fate tsukki.json
+).
+
+1. What Nasuverse Concepts Already Exist
+The existing Fate/stay night lorebook already covers a wide array of core Nasuverse mechanics and FSN-specific systems:
+
+Universal Nasuverse Systems
+The Root (Akasha / 根源の渦): Documented in 
+
+Nasuverse_Magecraft_System
+ as the ultimate source of all existence and the absolute pursuit of every Magus.
+Magecraft Fundamentals:
+Circuits & Energy: Magic Circuits (pseudo-nerves in the soul), Od (personal life force), Mana (environmental energy), and Prana (refined magical energy).
+Mystery & Degradation: The Law of Mystery (older = stronger; mystery dilutes as modern science rationalizes phenomena) and Equivalent Exchange.
+Standard Thaumaturgical Disciplines: Reinforcement (強化), Alteration (変化), Projection (投影), Jewel Magecraft, and Bounded Fields (結界).
+Reality Marble (固有結界): Defined as the ultimate inner world projection that temporarily overwrites baseline reality.
+The Counter Force (抑止力):
+Detailed in 
+
+Alaya_Deterrence
+.
+Gaia: The will of the planet to survive.
+Alaya: The collective unconscious will of humanity to avoid extinction, deploying utilitarian corrections and Counter Guardians.
+Runes & Ancient Spells: Referenced in the combat profiles of 
+
+Cu Chulainn
+ and 
+
+Bazett
+.
+Mystic Eyes (Basics): Mentioned via 
+
+Medusa's
+ Cybele (Mystic Eyes of Petrification).
+Fate / Fuyuki Specific Systems
+Holy Grail War Ritual: The 60-year summoning cycle in Fuyuki, 7 Masters vs. 7 Servants, Lesser vs. Greater Grail mechanics.
+The Three Absolute Rules: Concealment of Mystery, Command Spells (Makiri design, 3 uses, absolute compulsion), and Kotomine Church sanctuary.
+Servant Metaphysics: Ghostly Liners (spiritual evocations anchored to Masters), Astral Form, Spiritual Core, immunity to non-magical/mundane weaponry, True Name secrecy.
+Noble Phantasms & Parameters: Crystallization of legends into conceptual weapons; stat scaling from E to EX rank, including modifiers (+, ++).
+Third Magic (Heaven's Feel): Materialization of the Soul, pursued by the Einzbern family.
+Corrupted Grail & All the World's Evil: Angra Mainyu (Avenger), the black mud, and Servant corruption/Alteration.
+Mana Transfer: Circuit synchronization through physical intimacy and bodily fluid exchange.
+2. What Characters Already Exist
+The existing lorebook contains 34 distinct characters (plus duplicate variants):
+
+Category	Characters Present in 
+
+FATE SN RP.json
+5th War Masters	Emiya Shirou, Rin Tohsaka (Tosaka_Rin), Sakura Matou, Illyasviel von Einzbern, Matou Shinji, Kuzuki Souichirou, Kotomine Kirei, Matou Zouken.
+5th War Servants	Artoria Pendragon (Saber & Saber Alter), EMIYA (Archer), Cu Chulainn (Lancer), Medusa (Rider), Medea (Caster), Heracles (Berserker & Heracles Alter), Sasaki Kojiro (Fake Assassin), Hassan of the Cursed Arm (True Assassin), Gilgamesh.
+Fate/hollow ataraxia Cast	Bazett Fraga McRemitz (Mage's Association Enforcer), Caren Hortensia (Holy Church / Shroud).
+Fuyuki Civilians & Retainers	Fujimura Taiga, Ryuudou Issei, Sella & Leysritt.
+Arthurian / Round Table	Merlin, Gawain, Bedivere, Percival, Gareth, Tristan, Mordred, Galahad, Lancelot.
+Historical & Lore Entities	Kiritsugu Emiya (Fourth War), Angra Mainyu, Justeaze Lizrich von Einzbern, Makiri Zolgen, Tohsaka Nagato.
+3. What Information Kara no Kyoukai Should Avoid Duplicating
+To prevent token waste, context dilution, and conflicting definitions in SillyTavern, the Kara no Kyoukai expansion entries must not re-explain:
+
+The Root (Akasha) Foundation:
+Do not rewrite: What the Swirl of the Root is, why Magi pursue it, or its status as the source of all souls.
+Only specify for KnK: The direct conduit nature of Void Shiki (「　」), and Araya Souren's specific architectural attempt to reach it via the Ogawa apartment complex.
+Counter Force (Gaia vs. Alaya) Principles:
+Do not rewrite: The definitions of Gaia and Alaya, or how Counter Guardians operate.
+Only specify for KnK: How Alaya operates on a micro / local scale (i.e. nudging ordinary people like Kokutou Mikiya or Ryougi Shiki into position as unconscious counter-agents, avoiding the need for localized mass destruction).
+Magecraft System Fundamentals:
+Do not rewrite: How Magic Circuits function, what Od/Mana/Prana are, or what a Bounded Field is.
+Only specify for KnK: Specialized forms—specifically Aozaki Touko's Grand-rank Puppetry (人形魔術) and Araya Souren's triple-layer Kongo Bounded Fields and Sarira relics.
+Mage's Association & Enforcer Lore:
+Do not rewrite: The structure of the Clock Tower (already introduced through Rin and Bazett).
+Only specify for KnK: The Sealing Designation (封印指定) system, the Department of Puppetry, and why Touko is a fugitive from Clock Tower Enforcers during the late 1990s.
+4. Possible Conflicts Between FSN and KnK in Roleplay
+When running an AI roleplay combining both works, the following friction points must be explicitly managed:
+
+Mystic Eyes of Death Perception (MEoDP) vs. Servants:
+The Conflict: An LLM without strict boundaries will either treat Ryougi Shiki as an invincible deity who one-shots Servants by slicing their lines, or hallucinate that Servants cannot be killed because they are "already dead."
+Nasuverse Reality: Shiki can perceive and cut the lines/points of death on a Servant's spiritual core or contract line. However, her body is that of a normal human woman with a prosthetic arm; against Servant-level superhuman speed, agility, and range, she is at a severe physical disadvantage unless she can close the distance or prepare an ambush.
+Ryougi Shiki vs. Tohno Shiki (MEoDP Hallucination Risk):
+The Conflict: LLMs frequently blend Ryougi Shiki (Kara no Kyoukai) with Tohno Shiki (Tsukihime).
+The Difference: Tohno's brain cannot handle the strain of death perception, resulting in blinding headaches and burnout without his "Mystic Eye Killers" glasses. Ryougi's body is an empty vessel connected to the Root; she does not suffer brain strain from viewing lines and points of death.
+Timeline & Geographic Distance:
+The Conflict: Kara no Kyoukai takes place between 1995 and 1999 in Mifune City. Fate/stay night takes place in February 2004 in Fuyuki City.
+The Risk: The AI may place high-school Shirou and teenage Ryougi in the same room without acknowledging the ~5–8 year chronological gap or different regional settings.
+Aozaki Touko's Status Discrepancy:
+The Conflict: In KnK (1998), Touko is actively dodging Sealing Designation Enforcers while running Garan no Dou. By FSN (2004, Heaven's Feel route), she has reached an accommodation/pardon with the Clock Tower, is traveling freely, and crafts the masterwork puppet body that saves Shirou Emiya.
+Atmospheric & Power Scaling Discrepancy:
+The Conflict: FSN is an epic, high-stakes battle royale with tactical mythological clashes. KnK is an existential urban mystery with psychological horror, philosophical dialogue, and lethal, short duels. Mixing them carelessly causes the AI to overwrite KnK's gritty, subdued tone with shonen battle-anime rhetoric.
+Key Trigger Collisions:
+Common generic keys in FSN (such as "assassin", "church", "enforcer") will accidentally trigger unrelated KnK entries (e.g. Araya is a Buddhist monk, not a Christian priest; Touko is hunted by Enforcers; Shiki acts like an assassin). Strict selective secondary keys are mandatory.
+5. Missing Information Needed for Crossover
+To bridge the two works seamlessly into a unified master lorebook, the following entries and details must be provided:
+
+Core KnK Characters & Persona Conditioning
+Ryougi Shiki (両儀式):
+Separation of personas: Shiki (cold, instinctive, feminine), SHIKI (male, affirmative, suicidal/violent, lost in 1996 coma), and Void Shiki / 「　」 (the personality of the body, directly linked to the Root).
+Equipment: Kimono + leather jacket, Magatama dagger, Kanesada katana, and her armored prosthetic left arm (which can grip spirits and project phantom force).
+Kokutou Mikiya (黒桐幹也):
+The non-combatant anchor. His supernatural-tier investigative intuition, encyclopedic information gathering, calming presence, and strict moral refusal to accept murder.
+Aozaki Touko (蒼崎橙子):
+The physical bridge between KnK and FSN.
+The Glasses Toggle: With glasses on = polite, detached intellectual; glasses off = cold, ruthless, lethal magus.
+Chain-smoking (Dragonfly / Sobranie), Grand-level puppet bodies (functional immortality via identical duplicates), and primeval Nordic Runes.
+Araya Souren (荒耶宗蓮):
+Buddhist monk magus, Origin of "Stillness" (静止), collector of Sarira relics, spatial compression, and his three-layered Kongo Bounded Field.
+Asagami Fujino (浅上藤乃):
+Channeler of the Mystic Eyes of Distortion (歪曲の魔眼). Telekinetic spatial bending/twisting, sensory insensitivity, and appendicitis pain trigger.
+Shared World Connectors & Canon Bridges
+The Heaven's Feel Puppet Connection:
+An entry documenting Touko's creation of the replacement puppet body for Shirou Emiya in the Heaven's Feel True End, establishing her canon relationship with Rin and Rider.
+Location: Mifune City (三船市) & Garan no Dou (伽藍の堂):
+Defining the late-1990s urban setting of KnK, Touko's architectural firm front, and the unfinished building protected by bounded fields.
+The Demon Hunter Clans (退魔四家):
+Background lore explaining Japan's ancient demon-hunting lineages (Ryougi, Asagami, Fujou, Nanaya), grounding Shiki's dual-personality breeding and Fujino's psychic heritage outside the Western Clock Tower system.
+Concept: Origin Awakening (起源覚醒):
+Explaining how an awakened Origin overwrites human morality and personality (essential context for Shirazumi Lio, Araya, and Shirou Emiya's conceptual affinity to "Sword").
+MEoDP Interaction Rules:
+Clear operational rules governing how Ryougi's Mystic Eyes interact with spiritual cores, Noble Phantasms, bounded fields, and abstract concepts in combat.

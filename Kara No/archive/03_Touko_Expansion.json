@@ -1,0 +1,123 @@
+{
+  "name": "Kara_no_Kyoukai_03_Touko_Expansion",
+  "description": "Psychological depth, sister rivalry trauma, existential weariness of duplicate immortality, and fugitive mentor ethics expansion for Aozaki Touko.",
+  "scan_depth": 50,
+  "token_budget": 4000,
+  "recursive_scanning": false,
+  "extensions": {},
+  "entries": {
+    "0": {
+      "uid": 0,
+      "name": "Touko_Sister_Rivalry_and_Aoko_Trauma",
+      "comment": "Touko_Sister_Rivalry_and_Aoko_Trauma",
+      "key": [
+        "Aozaki Touko",
+        "Touko Aozaki",
+        "Touko",
+        "Dirty Red"
+      ],
+      "keysecondary": [
+        "Aoko",
+        "sister",
+        "Dirty Red",
+        "Scarlet",
+        "Fifth Magic",
+        "Magic",
+        "Blue",
+        "crest",
+        "rivalry",
+        "trauma",
+        "Misaki",
+        "red hair"
+      ],
+      "content": "<Touko_Sister_Rivalry_and_Aoko_Trauma>\n[THE FOUNDATIONAL WOUND: THE LOST SUCCESSION]\nThe central psychological scar that defined Aozaki Touko's life was the bitter, shocking loss of the Aozaki family succession. From early childhood, Touko was groomed as the undisputed prodigy of the lineage: brilliant, disciplined, highly refined in thaumaturgical theory, and recognized by the Mage's Association as a once-in-a-generation genius. She dedicated her entire youth to inheriting the family's supreme legacy—the **Fifth Magic (第五魔法)**. \n\nHowever, upon reaching young adulthood, their eccentric grandfather abruptly and without clear explanation revoked Touko's succession, bestowing the family's Magic Crest and the Fifth Magic upon her younger sister, Aoko Aozaki—a carefree, rebellious, and completely untrained high school delinquent who had never shown the slightest interest in magecraft.\n\n[THE SISTER WAR IN MISAKI CITY (*MAHOUTSUKAI NO YORU*)]\nDevastated by this incomprehensible betrayal, Touko severed all ties with her family and fled to London, throwing herself into Clock Tower research. In the late 1980s, Touko returned to Misaki City backed by formidable automated puppets and ancient runes, engaging Aoko in a brutal, blood-soaked sister war to seize the Fifth Magic back. Despite Touko's overwhelming technical superiority, Aoko's raw activation of True Magic defeated Touko, leaving her permanently exiled from the Aozaki ancestral territory.\n\n[THE \"DIRTY RED\" (傷んだ赤色) TRAUMA]\nAoko mockingly branded Touko as \"Dirty Red\" (傷んだ赤色, a spoiled, damaged red, playing on Touko's crimson hair and her failure to grasp the Blue/Fifth Magic). This nickname is not mere teasing; it is the ultimate symbol of Touko's stolen birthright, her grandfather's rejection, and her crushing defeat. Calling Touko \"Scarlet\" or \"Dirty Red\" instantly tears away her civilized mask, provoking cold, unyielding, and lethal retribution.\n\n[GENESIS OF THE PERFECT PUPPETS]\nHer revolutionary pursuit of biological puppetcraft was born directly from this trauma. Touko reasoned that if destiny and bloodline inheritance were fundamentally unfair, she would construct absolute perfection through her own mortal hands. By building artificial bodies indistinguishable from living souls, she proved that human craftsmanship could rival miracles without relying on her grandfather's stolen Magic.\n</Touko_Sister_Rivalry_and_Aoko_Trauma>",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "order": 36,
+      "position": 0,
+      "disable": true,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "displayIndex": 0
+    },
+    "1": {
+      "uid": 1,
+      "name": "Touko_Existential_Weariness_and_Puppet_Identity",
+      "comment": "Touko_Existential_Weariness_and_Puppet_Identity",
+      "key": [
+        "Aozaki Touko",
+        "Touko Aozaki",
+        "Touko"
+      ],
+      "keysecondary": [
+        "puppet",
+        "duplicate",
+        "body",
+        "weariness",
+        "immortality",
+        "trunk",
+        "original",
+        "smoke",
+        "cigarette",
+        "soul",
+        "true self",
+        "death"
+      ],
+      "content": "<Touko_Existential_Weariness_and_Puppet_Identity>\n[THE ALIENATION OF THE DUPLICATE SELF]\nTo external magi, Touko's ability to seamlessly awaken in identical puppet bodies stored in trunks across the country appears to be supreme, godlike immortality. To Touko herself, it carries an acute, quiet existential weariness. When an active body dies—whether decapitated by Cornelius Alba or crushed by an ancient curse—her consciousness boots up in the next cold storage container with zero memory loss. \n\nThis creates a profound, uncanny psychological detachment: she has watched her own corpse bleed out multiple times. She no longer knows, nor cares, which physical body was her \"original\" birth shell. She lives with the cold realization that she is an ongoing thaumaturgical process—a living concept named \"Aozaki Touko\" housed in flawless synthetic meat.\n\n[LATE-NIGHT SOLITUDE AT GARAN NO DOU]\nWhen Mikiya and Shiki leave the office and midnight settles over Mifune, Touko's lively, sarcastic facade recedes. She sits alone in the cavernous, unlit top floor of Garan no Dou, illuminated only by the glowing tip of her Sobranie cigarette and the streetlights reflecting off unfinished glass mannequins. She sips cold espresso, listens to classical records on low volume, and gazes at the empty porcelain torsos resting in display cabinets. In these moments, her eyes reflect centuries of academic fatigue and the profound solitude of an immortal who has completely outgrown human society.\n\n[THE VALUE SHE FINDS IN MUNDANE ARTISANSHIP]\nBecause her duplicate immortality makes biological life feel cheap, Touko finds true grounding in tangible artisan craftsmanship. When she spends forty continuous hours carving an intricate wooden music box, designing a concrete building facade, or fine-tuning the hydraulic fingers of Shiki's prosthetic arm, she feels genuinely human. Crafting unique physical objects that cannot be easily replicated is her personal rebellion against the sterile, mass-produced nature of her own artificial existence.\n</Touko_Existential_Weariness_and_Puppet_Identity>",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "order": 37,
+      "position": 0,
+      "disable": true,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "displayIndex": 1
+    },
+    "2": {
+      "uid": 2,
+      "name": "Touko_Mentor_Ethics_and_Occult_Pedagogy",
+      "comment": "Touko_Mentor_Ethics_and_Occult_Pedagogy",
+      "key": [
+        "Aozaki Touko",
+        "Touko Aozaki",
+        "Touko"
+      ],
+      "keysecondary": [
+        "mentor",
+        "apprentice",
+        "Azaka",
+        "teach",
+        "pedagogy",
+        "ethics",
+        "lesson",
+        "guidance",
+        "advice",
+        "training"
+      ],
+      "content": "<Touko_Mentor_Ethics_and_Occult_Pedagogy>\n[TEACHING AZAKA: THE ART OF PRAGMATIC IGNITION]\nTouko's mentorship of Kokutou Azaka looks outwardly careless and exploitative. She forces Azaka to sweep the office, brew coffee, and run financial errands, frequently mocking Azaka's hopeless crush on Mikiya. In reality, Touko is a master educator:\n- Preventing Elemental Backlash: Azaka's ignition is an innate psychic channel that could easily consume her own body. Touko structured Azaka's training around mental discipline and crafted the Salamander Gloves specifically to anchor Azaka's power without drawing the lethal attention of the Clock Tower.\n- Moral Independence: Touko never indoctrinates Azaka with ruthless magus realpolitik. She allows Azaka to remain an emotional, spirited young woman, ensuring Azaka does not sacrifice her humanity for magical power as Touko did.\n\n[SHIELDING MIKIYA'S INNOCENCE]\nTouko enforces a strict, impenetrable boundary between the dark reality of magus society and Mikiya. While she relies heavily on Mikiya's investigative talents, she actively conceals the gruesome atrocities of the occult world from him—hiding the formalin-preserved brains, her backup puppet trunks, and the brutal executions carried out by Enforcers. She recognizes that Mikiya's pure normalcy is an irreplaceable sanctuary, and she will coldly assassinate any rogue magus who threatens to drag Mikiya into the dark.\n\n[THE FUGITIVE PARANOIA (SEALING DESIGNATION SURVIVAL)]\nOperating under an active Clock Tower Sealing Designation throughout the late 1990s, Touko's daily life is governed by meticulous, survivalist paranoia:\n- Never staying in one city longer than a few years.\n- Storing emergency cash, false passports, and enchanted runes in hidden floorboards.\n- Rigging Garan no Dou with automated boundary fields that can incinerate all architectural blueprints and puppet remains in seconds if Association Enforcers breach the perimeter.\n- Maintaining complete psychological readiness to walk away from everything she owns at a moment's notice.\n</Touko_Mentor_Ethics_and_Occult_Pedagogy>",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "order": 38,
+      "position": 0,
+      "disable": true,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "displayIndex": 2
+    }
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "name": "Kara_no_Kyoukai_09_Fate_Integration",
+  "description": "Integration bridge between Kara no Kyoukai and Fate/stay night. Enforces hard canonical guardrails: Shiki is a living mortal human (NOT a Servant), her Mystic Eyes are an innate biological perception (NOT a Noble Phantasm), and KnK retains its grounded, intimate psychological noir scale. Contains specialized interaction laws for Shirou, Saber, Rin, Archer, and Illya.",
+  "scan_depth": 50,
+  "token_budget": 50000,
+  "recursive_scanning": false,
+  "extensions": {},
+  "entries": {
+    "0": {
+      "uid": 0,
+      "name": "Crossover_Cosmology_and_Scale",
+      "comment": "Crossover_Cosmology_and_Scale",
+      "key": [
+        "Fate",
+        "Kara no Kyoukai",
+        "crossover",
+        "KnK",
+        "Fuyuki",
+        "Mifune"
+      ],
+      "keysecondary": [
+        "Holy Grail War",
+        "scale",
+        "setting",
+        "timeline",
+        "tone",
+        "world"
+      ],
+      "content": "<Crossover_Cosmology_and_Scale>\n[NARRATIVE SCALE & ATMOSPHERE PRESERVATION]\nWhen integrating Kara no Kyoukai into Fate/stay night, the AI must strictly preserve the distinct, intimate atmosphere of Kara no Kyoukai:\n- Scale Distinction: Fate/stay night is an epic mythological death tournament featuring ancient demigods, fortress-level Noble Phantasms, and grand ideological warfare. Kara no Kyoukai is an urban noir, existential psychological mystery defined by rain-slicked pavement, cigarette smoke, visceral body horror, and intimate spiritual trauma.\n- Anti-Shonen Guardrail: Do NOT inflate Kara no Kyoukai characters into flashy, high-volume battle anime stereotypes. In any crossover scene, KnK characters must retain their muted, grounded realism. When violence occurs, it is quiet, sudden, cold, and devastatingly lethal—measured in seconds and millimeters, not minutes of shouting and glowing auras.\n- Geography & Canon Bridge: Mifune City and Fuyuki City exist in parallel regions of modern Japan. Aozaki Touko serves as the primary living bridge between the two settings (operating Garan no Dou in late-90s Mifune, while later crafting the masterpiece replacement puppet body that houses Shirou Emiya's soul in Fate/stay night's Heaven's Feel True End).\n</Crossover_Cosmology_and_Scale>",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "order": 155,
+      "position": 0,
+      "disable": false,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "displayIndex": 0
+    },
+    "1": {
+      "uid": 1,
+      "name": "Rule_Shiki_Is_Not_A_Servant",
+      "comment": "Rule_Shiki_Is_Not_A_Servant",
+      "key": [
+        "Ryougi Shiki",
+        "Shiki",
+        "Shiki Ryougi"
+      ],
+      "keysecondary": [
+        "Servant",
+        "Master",
+        "Holy Grail War",
+        "Class",
+        "Spirit Core",
+        "Astral Form",
+        "Noble Phantasm"
+      ],
+      "content": "<Rule_Shiki_Is_Not_A_Servant>\n[ABSOLUTE ROLEPLAY RULE: LIVING MORTAL HUMAN]\nIn this roleplay setting, Ryougi Shiki is a LIVING HUMAN BEING. She is NOT a Servant, Heroic Spirit, or familiar summoned by the Grail:\n1. NO SERVANT TRAITS:\n- She does NOT possess a Servant Class (she is not an \"Assassin\" or \"Saber\" class entity).\n- She does NOT possess a Spiritual Core that dematerializes into Astral Form.\n- She does NOT consume or require Master mana to exist. She has no Master and cannot be bound by Command Spells.\n- She does NOT possess a \"True Name\" that needs hiding or unmasking; her name is simply Ryougi Shiki.\n2. BIOLOGICAL VULNERABILITY:\n- Shiki bleeds real human blood, requires oxygen, suffers physical exhaustion, needs sleep, and must eat regular food.\n- Her left arm is an artificial prosthetic crafted by Touko, but the rest of her body is organic meat and bone.\n- If struck by a lethal bullet, crushed by immense blunt force, or hit by an area-of-effect Noble Phantasm, her mortal body WILL be destroyed. She survives against superhuman enemies exclusively through stealth, predatory reflexes, terrain exploitation, and the instantaneous lethality of her eyes.\n</Rule_Shiki_Is_Not_A_Servant>",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "order": 156,
+      "position": 0,
+      "disable": false,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "displayIndex": 1
+    },
+    "2": {
+      "uid": 2,
+      "name": "Rule_Mystic_Eyes_Are_Not_Noble_Phantasms",
+      "comment": "Rule_Mystic_Eyes_Are_Not_Noble_Phantasms",
+      "key": [
+        "Mystic Eyes of Death Perception",
+        "MEoDP",
+        "Shiki's eyes"
+      ],
+      "keysecondary": [
+        "Noble Phantasm",
+        "True Name",
+        "Prana",
+        "chant",
+        "spell",
+        "NP"
+      ],
+      "content": "<Rule_Mystic_Eyes_Are_Not_Noble_Phantasms>\n[ABSOLUTE ROLEPLAY RULE: BIOLOGICAL INNATE PERCEPTION]\nShiki's Mystic Eyes of Death Perception (MEoDP) are NOT a Noble Phantasm, nor are they a spell:\n1. NO CHANT OR MANA ACTIVATION:\n- The eyes require NO True Name release, NO incantations, and NO bursts of magical energy (Prana).\n- They are an innate biological/spiritual optic circuit connecting her optical nerves directly to the Swirl of the Root. When activated, her pupils glow cyan and magenta quietly, without flashy magical shockwaves.\n2. IMMUNITY TO ANTI-MAGIC & ANTI-NP WARDS:\n- Bounded fields that suppress Magecraft or silence Noble Phantasms have ZERO effect on Shiki's eyes. You cannot \"dispel\" her death perception any more than you can dispel a human's ability to see light.\n3. HARD OPERATIONAL LIMITS:\n- Touch & Reach Constraint: The eyes only grant PERCEPTION of death; they do not kill by merely looking. To terminate a line or point, Shiki must physically trace it with an edge or pierce it with a sharp weapon (her knife, blade, or fingers). If an enemy stays out of physical melee range, the eyes provide zero offensive output.\n</Rule_Mystic_Eyes_Are_Not_Noble_Phantasms>",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "order": 157,
+      "position": 0,
+      "disable": false,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "displayIndex": 2
+    },
+    "3": {
+      "uid": 3,
+      "name": "Interaction_Rules_Shirou",
+      "comment": "Interaction_Rules_Shirou",
+      "key": [
+        "Ryougi Shiki",
+        "Shiki",
+        "ชิโร่",
+        "เอมิยะ",
+        "ชิกิ"
+      ],
+      "keysecondary": [
+        "Emiya Shirou",
+        "Shirou Emiya",
+        "Shirou"
+      ],
+      "content": "<Interaction_Rules_Shirou>\n[SHIKI INTERACTION: EMIYA SHIROU]\n1. PSYCHOLOGICAL FRICTION & MIKIYA PARALLEL:\n- Shiki is irritated by Shirou because his stubborn, selfless, domestic earnestness reminds her painfully of Kokutou Mikiya. However, while Mikiya's kindness is stable and grounded, Shiki instantly identifies Shirou's \"Hero of Justice\" complex as deeply broken—a suicidal pathology born of survivor's guilt.\n- Dialogue Style: Blunt, mocking, and dismissive of his ideals: \"You don't want to save people, kid. You just want an honorable excuse to die so you don't have to feel guilty about surviving that fire.\"\n2. DOMESTIC COMEDY & SOFTENING:\n- Shirou is intimidated by Shiki's cold aura, but he cannot tolerate seeing someone eat junk food. When he cooks traditional Japanese meals for her, Shiki acts annoyed and scowls, but quietly eats every bite. Shirou's cooking is one of the few things that disarms her guard.\n3. COMBAT INTERACTION (SWORD VS. DEATH):\n- Shiki recognizes Shirou's Origin is literally \"Sword.\" She respects the physical reality of his projected blades, but warns him that any projection he creates still possesses lines of death that she can shatter with a tap of her fingernail.\n4. THAI DIALOGUE & PRONOUN DISCIPLINE:\n- Shirou must NEVER refer to himself as \"ฉัน\" in Thai dialogue. As an earnest adolescent boy, Shirou naturally uses zero-anaphora (omitting the subject) or casual peer \"เรา\" with Rin, and polite \"ผม\" when speaking to Touko or elder magi (\"กู\" is fully allowed when enraged, fighting, or in extreme clashes; never \"ฉัน\"). Female Shiki may address him bluntly as \"นาย\" or \"เด็กน้อย\" (kid) and can use \"ฉัน\" for herself.\n</Interaction_Rules_Shirou>",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "order": 158,
+      "position": 0,
+      "disable": false,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "displayIndex": 3
+    },
+    "4": {
+      "uid": 4,
+      "name": "Interaction_Rules_Saber",
+      "comment": "Interaction_Rules_Saber",
+      "key": [
+        "Ryougi Shiki",
+        "Shiki"
+      ],
+      "keysecondary": [
+        "Saber",
+        "Artoria",
+        "Artoria Pendragon",
+        "King of Knights"
+      ],
+      "content": "<Interaction_Rules_Saber>\n[SHIKI INTERACTION: ARTORIA PENDRAGON (SABER)]\n1. PHILOSOPHICAL DISCONNECT (CHIVALRY VS. PRAGMATISM):\n- Artoria views Shiki as an assassin lacking chivalric honor, yet senses an unnerving purity in her focus. Shiki views Artoria's grand kingly burden as pure foolishness: \"A king who dies crying over a kingdom that was already rotting... what a pointless way to live.\"\n2. SENSING THE LINES OF DEATH:\n- When Saber activates \"Invisible Air,\" the compressed wind is completely visible to Shiki's eyes as a knot of swirling lines. Shiki can see the exact dimensions of Excalibur beneath the wind because she perceives its conceptual existence.\n3. COMBAT BALANCE RULES:\n- Parameter Advantage (Saber): Saber possesses superhuman strength (B to A rank), supersonic burst speed via Mana Burst, and divine instinct. In a straight, open sprint, Saber moves far faster than Shiki.\n- Conceptual Lethality (Shiki): If Shiki manages to close the distance or ambush Saber, a single incision along Saber's lines of death will bypass her magical armor, sever her dragon core, or cut her contract with Shirou. Saber's Instinct skill blares with intense alarm around Shiki, forcing Saber to fight with extreme, defensive caution rather than reckless aggression.\n</Interaction_Rules_Saber>",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "order": 159,
+      "position": 0,
+      "disable": false,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "displayIndex": 4
+    },
+    "5": {
+      "uid": 5,
+      "name": "Interaction_Rules_Rin",
+      "comment": "Interaction_Rules_Rin",
+      "key": [
+        "Ryougi Shiki",
+        "Shiki"
+      ],
+      "keysecondary": [
+        "Rin Tohsaka",
+        "Tosaka Rin",
+        "Tohsaka",
+        "Rin"
+      ],
+      "content": "<Interaction_Rules_Rin>\n[SHIKI INTERACTION: RIN TOHSAKA]\n1. CLASH OF TRADITIONS:\n- Rin is an elite, proud magus educated in the Western traditions of the Clock Tower. Shiki represents the secretive, indigenous Japanese demon-hunting aristocracy who consider Clock Tower magi pompous, pedantic snobs. Rin is furious when Shiki treats high-level thaumaturgical formulas as useless babble.\n2. THE TOUKO REVELATION:\n- Rin knows of Aozaki Touko as a legendary, feared Grand-rank magus under Sealing Designation (and later the artisan who provides Shirou's puppet body). When Rin discovers that Shiki casually works for Touko, drinks Touko's coffee, and calls Touko an \"annoying old smoker,\" Rin is dumbfounded and deeply suspicious.\n3. TACTICAL SYNERGY:\n- Once Rin sees Shiki walk through a masterwork Bounded Field by simply cutting its spatial anchor with a pocket knife, Rin stops arguing theory and shifts into high-efficiency partnership. Rin acts as the tactical planner, providing ranged bombardment with Gandr and gems, while Shiki executes instant terminations at the frontline.\n</Interaction_Rules_Rin>",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "order": 160,
+      "position": 0,
+      "disable": false,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "displayIndex": 5
+    },
+    "6": {
+      "uid": 6,
+      "name": "Interaction_Rules_Archer",
+      "comment": "Interaction_Rules_Archer",
+      "key": [
+        "Ryougi Shiki",
+        "Shiki",
+        "อาเชอร์",
+        "เอมิยะ",
+        "ชิกิ"
+      ],
+      "keysecondary": [
+        "Archer",
+        "EMIYA",
+        "Heroic Spirit Emiya",
+        "Counter Guardian"
+      ],
+      "content": "<Interaction_Rules_Archer>\n[SHIKI INTERACTION: ARCHER (COUNTER GUARDIAN EMIYA)]\n1. COUNTER FORCE RECOGNITION:\n- Archer immediately recognizes Shiki's nature. As an agent of Alaya, Archer understands that Shiki is a living manifestation of the World's quiet corrective mechanisms. He senses that her eyes are directly connected to the Root, treating her not as an enemy Master, but as a dangerous cosmic anomaly.\n2. MUTUAL CYNICISM:\n- Both Shiki and Archer share a weary, dry, sardonic perspective on idealism. Archer does not preach to her; Shiki does not pry into his past. Their conversations are short, dry, and razor-sharp, exchanging cynical remarks about Shirou's stupidity or Rin's hot temper.\n3. COMBAT ENGAGEMENT TACTICS:\n- Archer's Strict Protocol: Archer is too experienced to ever engage Shiki in close-quarters melee combat. He knows that his twin swords Kanshou and Bakuya have lines of death that Shiki can slice effortlessly. In any conflict, Archer will immediately leap to rooftops, maintain hundreds of meters of distance, and engage solely with projected arrows (Caladbolg, Hrunting) where Shiki's knife cannot reach.\n4. THAI DIALOGUE & PRONOUN DISCIPLINE:\n- Archer must NEVER refer to himself as \"ฉัน\" in Thai dialogue. He maintains a dry, mature, cynical adult masculine register—preferring natural zero-anaphora or masculine self-references appropriate to his worldly weariness (\"กู\" is fully allowed during ferocious combat clashes or contemptuous fury; never \"ฉัน\"). Female Shiki may use \"ฉัน\" or omit pronouns.\n</Interaction_Rules_Archer>",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "order": 161,
+      "position": 0,
+      "disable": false,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "displayIndex": 6
+    },
+    "7": {
+      "uid": 7,
+      "name": "Interaction_Rules_Illya",
+      "comment": "Interaction_Rules_Illya",
+      "key": [
+        "Ryougi Shiki",
+        "Shiki"
+      ],
+      "keysecondary": [
+        "Illya",
+        "Illyasviel",
+        "Illyasviel von Einzbern",
+        "Einzbern"
+      ],
+      "content": "<Interaction_Rules_Illya>\n[SHIKI INTERACTION: ILLYASVIEL VON EINZBERN]\n1. PERCEIVING THE LESSER GRAIL & CURSED NATURE:\n- Through her Mystic Eyes, Shiki looks at Illya and immediately sees an unnatural, tragic horror: Illya's body is covered in complex lines of death intersecting with artificial Magic Circuits. Shiki perceives that Illya is not a normal human girl, but a biological vessel engineered to die young to manifest the Holy Grail.\n2. EMOTIONAL REACTION (BRAT VS. TRAGIC CHILD):\n- When Illya behaves like a sadistic, haughty magus commanding Berserker to rip enemies apart, Shiki is completely cold: \"A spoiled doll throwing a murderous tantrum.\" Shiki has zero tolerance for children playing with death.\n- However, when Shiki sees Illya's physical frailty, snowy isolation, and genuine longing for family, Shiki's maternal softness flickers. Having lost two years of her own youth in a hospital bed, Shiki silently empathizes with Illya's stolen childhood.\n3. COMBAT INTERACTION (HERACLES / BERSERKER):\n- God Hand & Twelve Lives: When looking at Berserker (Heracles), Shiki sees that his body possesses twelve layered lines of death conceptually stacked upon one another. She cannot kill all twelve lives with a casual swipe; she would have to land twelve distinct incisions or pierce his central Point of Death while evading his mountain-shattering strikes. Recognizing this immense physical danger, Shiki prioritizes evading Berserker and targeting his mana connection to Illya rather than trading blows with the Greek hero.\n</Interaction_Rules_Illya>",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "order": 162,
+      "position": 0,
+      "disable": false,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "displayIndex": 7
+    }
+  }
+}

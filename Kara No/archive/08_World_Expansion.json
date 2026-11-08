@@ -1,0 +1,90 @@
+{
+  "name": "Kara_no_Kyoukai_08_World_Expansion",
+  "description": "Add-on cosmological and metaphysical expansion for Kara no Kyoukai. Documents the deep technical architecture of the Ryougi family's Yin/Yang/personality framework (Demon Hunter lineage, Kaname's failure, Void vessel) and esoteric Buddhist Mandala spatial metaphysics, rigorously distinguishing explicit canon from speculative fan theories.",
+  "scan_depth": 50,
+  "token_budget": 50000,
+  "recursive_scanning": false,
+  "extensions": {},
+  "entries": {
+    "0": {
+      "uid": 0,
+      "name": "Tradition_Ryougi_Yin_Yang_Tripartite_Framework",
+      "comment": "Tradition_Ryougi_Yin_Yang_Tripartite_Framework",
+      "key": [
+        "Ryougi clan",
+        "Ryougi family",
+        "Ryougi",
+        "Kaname Ryougi",
+        "Taima Yonke"
+      ],
+      "keysecondary": [
+        "breeding",
+        "Yin",
+        "Yang",
+        "tradition",
+        "personality",
+        "framework",
+        "tripartite",
+        "Void",
+        "Kaname",
+        "dual mind",
+        "demon hunter",
+        "DID"
+      ],
+      "content": "<Tradition_Ryougi_Yin_Yang_Tripartite_Framework>\n[METAPHYSICAL ARCHITECTURE: THE TAIMA YONKE DUAL CONTAINER]\nThe Ryougi family (両儀家) is one of Japan's ancient Four Demon Hunter Clans (退魔四家, Taima Yonke), alongside the Asagami, Fujou, and Nanaya. Their lineage is defined by the deliberate cultivation of multiple, self-contained human souls within a single physical container—a practice rooted in Daoist/Onmyoudou principles of the Two Modes (両儀, Yin and Yang emerging from Taiji).\n\n[THE TRIPARTITE FRAMEWORK: SHIKI, SHIKI, AND VOID]\nUnlike common clinical Dissociative Identity Disorder (解離性同一性障害), which fractures an existing psyche into traumatized subconscious fragments, the Ryougi artificially structure the heir's existence into three distinct structural layers:\n\n1. LAYER 1: SHIKI (式) — THE YIN PERSONA (陰)\n- Feminine, negative, introverted, receptive, and denying.\n- Assigned outward social interaction and mundane family existence. She feels intense alienation and harbors an existential fear of her own destructive impulses, yet possesses deep, hidden gentleness.\n\n2. LAYER 2: SHIKI (織) — THE YANG PERSONA (陽)\n- Masculine, positive, extroverted, affirmative, and predatory.\n- Assigned the hereditary burden of the family's homicidal impulse (殺人家系). He experiences bloodlust as a natural physical drive, insulating female Shiki from spiritual degradation. Paradoxically, his love for Kokutou Mikiya is absolute, leading to his self-sacrifice in early March 1996 (March 5, 1996).\n\n3. LAYER 3: 「　」 (KARA / VOID) — THE PHYSICAL VESSEL (肉体)\n- The consciousness of the physical vessel itself before ego specialization.\n- In standard humans, the body has no independent ego; it is merely an organic shell governed by the conscious mind. In the Ryougi heir, because the mind was artificially cleaved into opposing Yin and Yang poles, a vacant void remained at the center of the vessel.\n- This hollow void aligns directly with the Origin of Nothingness / the Swirl of the Root (`Akasha`). The physical body itself possesses transcendent divine awareness, walking the earth as an avatar of the Root.\n\n[SUCCESSION LAWS & KANAME RYOUGI'S DISQUALIFICATION]\n- The Ryougi breeding ritual is notoriously unstable. Most children born to the family fail to awaken a stable secondary soul channel, developing severe psychological instability or remaining ordinary single-soul humans.\n- Case of Kaname Ryougi (両儀要): Shiki had an older brother, Kaname, who was initially slated to become family head. However, Kaname failed to manifest the dual-mind trait. Under the iron law of the Ryougi clan, succession demands the dual-soul architecture. Kaname was stripped of heir status, and female Shiki was designated sole successor from early childhood.\n\n[EXPLICIT CANON VS. SPECULATIVE FAN THEORIES]\n- Explicit Canon: The Ryougi family's dual-mind technique is an ancient eugenic bloodline art designed to create master demon hunters without moral erosion. The body itself is the third personality connected to Akasha. Kaname was disinherited for failing to manifest a dual soul.\n- Rejected Speculation: Do NOT claim the Counter Force engineered the Ryougi family breeding program or that Shiki is a Counter Guardian. The Ryougi family acted purely out of their clan's historical survival and Demon Hunting traditions; Shiki's connection to the Root was an accidental metaphysical convergence of her hollow container.\n</Tradition_Ryougi_Yin_Yang_Tripartite_Framework>",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "order": 89,
+      "position": 0,
+      "disable": true,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "displayIndex": 0
+    },
+    "1": {
+      "uid": 1,
+      "name": "Cosmology_Mandala_Architecture_and_Root_Isolation",
+      "comment": "Cosmology_Mandala_Architecture_and_Root_Isolation",
+      "key": [
+        "Ogawa Mansion",
+        "Ogawa Apartments",
+        "Araya Souren",
+        "Araya",
+        "Mandala"
+      ],
+      "keysecondary": [
+        "mandala",
+        "Root",
+        "isolation",
+        "Akasha",
+        "Womb Realm",
+        "Diamond Realm",
+        "Alaya",
+        "Gaia",
+        "Counter Force",
+        "stasis",
+        "cosmology",
+        "architecture"
+      ],
+      "content": "<Cosmology_Mandala_Architecture_and_Root_Isolation>\n[METAPHYSICAL OPERATING PRINCIPLES: SPATIAL SEVERANCE FROM PLANETARY AXIS]\nIn Nasuverse cosmology, attempting to reach the Swirl of the Root (`Akasha`) from within the physical world normally triggers the immediate corrective mechanisms of the Counter Force (the survival instincts of Gaia/the Planet and Alaya/Mankind). Araya Souren's entire life's work was the creation of an architectural domain capable of circumventing this planetary surveillance.\n\n[THE MANDALA AS A MICROCOSMIC UNIVERSE]\n1. Esoteric Buddhist Spatial Engineering:\n- A mandala in esoteric Buddhism is not a painting; it is a sacred geometric diagram of the cosmic universe.\n- By translating the Gharbhadhatu (Womb Realm / 胎蔵界) and Vajradhatu (Diamond Realm / 金剛界) into the physical foundation, steel girders, and circular corridors of Ogawa Mansion, Araya created an artificial microcosmic universe isolated from the macrocosmic world.\n- Environmental Independence: The interior of the complex does not answer to the external magnetic, gravitational, or thaumaturgical coordinate grid of Japan. It is a sterile pocket dimension existing within its own conceptual bubble.\n\n2. Containment of the Infinite Vessel:\n- Ryougi Shiki's physical body is connected directly to the infinite Void of the Root. Capturing an infinite entity with finite magical energy is theoretically impossible.\n- Araya's Solution: Rather than overpowering Shiki with destructive force, he constructed a boundary of absolute stasis (Yin/Yang equilibrium). By trapping her inside a zero-velocity, zero-event sarcophagus, Shiki was paralyzed because no physical or conceptual event occurred for her Mystic Eyes to perceive or cut.\n\n3. The Accumulation of Terminal Entropy:\n- The Root cannot be contacted through mundane living matter. It is approached at the precise boundary where existence ends and nothingness begins.\n- By forcing the resident puppet families into daily murder-suicide loops, Araya collected hundreds of repeated death moments within a single enclosed container, synthesizing a localized spiritual singularity that mirrored the threshold of the Root.\n\n[EXPLICIT CANON VS. SPECULATIVE COUNTER FORCE THEORIES]\n1. Did the Counter Force Intervene?\n- Common Fan Speculation: Many fans hypothesize that the Counter Force directly guided Enjou Tomoe, gave him supernatural luck, or manipulated Mikiya to destroy Araya's scheme.\n- Explicit Canon Reality: Nasu Kinoko's official novel text and side-materials refute this. The Counter Force did NOT dispatch a Counter Guardian or directly intervene in Ogawa Mansion because Araya's bounded field was so completely sealed that external detection was delayed.\n2. The True Nature of Enjou Tomoe's Rebellion:\n- Enjou Tomoe was 100% an artificial puppet constructed by Araya and Alba, carrying a cloned brain and synthetic memories.\n- His defiance was not planetary programming; it was a spontaneous, purely human miracle. Driven by his unreciprocated love for Shiki and his desperate desire to prove his own existence had meaning, Tomoe broke his own behavioral constraints and sacrificed his artificial life.\n- The thematic core of *Paradox Spiral* is that mortal human will, even within a synthetic puppet, can shatter the most flawless thaumaturgical architecture.\n</Cosmology_Mandala_Architecture_and_Root_Isolation>",
+      "constant": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "order": 90,
+      "position": 0,
+      "disable": true,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "displayIndex": 1
+    }
+  }
+}
