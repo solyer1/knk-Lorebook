@@ -5,6 +5,7 @@ __pycache__/
 
 # Temporary backups
 backups_*/
+scratch/backups_*/
 *.orig
 *.bak
 
